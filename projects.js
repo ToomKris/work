@@ -23,7 +23,7 @@ const projects = [
     description: "Started as my own budget tracker in Notion, and I wanted to turn it into a website anyone can use. I built it with Claude",
     function: "personal",
     tags: ["HTML"],
-     link: "https://toomkris.github.io/budgetcalulator/"
+    link: "https://toomkris.github.io/budgetcalulator/"
   },
 
   {
