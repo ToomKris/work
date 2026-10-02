@@ -16,13 +16,16 @@
 */
 
 const projects = [
+  
    {
     ID: "9",
     name: "Budget Calulator",
     description: "Started as my own budget tracker in Notion, and I wanted to turn it into a website anyone can use. I built it with Claude",
     function: "personal",
-    tags: ["HTML"]
+    tags: ["HTML"],
+     link: "https://toomkris.github.io/budgetcalulator/"
   },
+
   {
     ID: "4",
     name: "100 Days of Code - The Complete Python Pro Bootcamp",
