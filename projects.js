@@ -17,6 +17,13 @@
 
 const projects = [
    {
+    ID: "9",
+    name: "Budget Calulator",
+    description: "Started as my own budget tracker in Notion, and I wanted to turn it into a website anyone can use. I built it with Claude",
+    function: "personal",
+    tags: ["HTML"]
+  },
+  {
     ID: "4",
     name: "100 Days of Code - The Complete Python Pro Bootcamp",
     description: "My solutions, exercises, and projects from the 100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu.",
